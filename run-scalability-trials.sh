@@ -1,0 +1,1 @@
+java -jar build/libs/ireceptorchain-simulation-1.0.jar --initialIncidenceOfIntendedAgents 90 --initialIncidenceOfUnintendedAgents 10 --initialIncidenceOfCreatorAgents 15 --initialIncidenceOfVotingAgents 85 --finalIncidenceOfUnintendedAgents 10 --finalIncidenceOfCreatorAgents 70 --unintendedAgentsIncrement 0 --creatorAgentsIncrement 1 --numIterations 100

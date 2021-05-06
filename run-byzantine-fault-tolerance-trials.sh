@@ -1,0 +1,2 @@
+gradle build
+java -jar build/libs/ireceptorchain-simulation-1.0.jar --initialIncidenceOfIntendedAgents 90 --initialIncidenceOfUnintendedAgents 10 --initialIncidenceOfCreatorAgents 30 --initialIncidenceOfVotingAgents 70 --finalIncidenceOfUnintendedAgents 90 --finalIncidenceOfCreatorAgents 30 --unintendedAgentsIncrement 1 --creatorAgentsIncrement 0 --numIterations 100
